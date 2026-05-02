@@ -1,2 +1,5 @@
 *.ckpt
 *.csv
+venv/
+data/
+*.zip
